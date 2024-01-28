@@ -1,0 +1,15 @@
+
+.primary-background{
+	background: -webkit-linear-gradient(left, #0072ff, #00c6ff) !important;;
+}
+.fa-shield,
+.fa-handshake-o,
+.fa-address-book,
+.fa-tasks,
+.fa-random,
+.fa-asterisk{
+	margin-right:6px;
+}
+.button{
+	margin-right:10px;
+}
